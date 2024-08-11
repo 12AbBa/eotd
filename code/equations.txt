@@ -1,0 +1,60 @@
+(a*b)*c=a*(b*c)
+a*b=b*a
+a*1=a
+a*a^{-1}=1
+a*(b+c)=a*b+a*c
+\exists c,b=ac
+m\mid a-b
+\mathbb Q=\operatorname{Frac}(\mathbb Z)
+f(a*b)=f(a)*f(b)
+a,b>0\implies a+b,ab>0
+ab=0
+a=bq+r
+\langle a,b\rangle=\langle\gcd(a,b)\rangle
+n=u\cdot p_1p_2\cdots p_k
+y^2=x^3-2
+\forall\varepsilon>0,\exists N,\forall m,n>N,|s_m-s_n|<\varepsilon
+\sup S=\min\{a:\forall x\in S,x\le a\}
+\forall\varepsilon>0,\exists N,\forall n>N,|s_n-s|<\varepsilon
+\sum_{i=1}^\infty a_i=\lim_{n\to\infty}\sum_{i=1}^na_i
+\forall\varepsilon>0,\exists\delta>0,\forall x,0<|x-c|<\delta\implies|f(x)-L|<\varepsilon
+\exists M,\forall n,|s_n|<M\implies\exists(n_k),\exists x=\lim_{k\to\infty}s_{n_k}
+\sum_{n=1}^\infty|a_n|<\infty
+\limsup s_n=\lim_{n\to\infty}\sup\{s_m:m\ge n\}
+\mathbb C=\mathbb R[x]/\langle 1+x^2\rangle
+R/\ker f\cong\operatorname{im}f
+R/(I\cap J)\cong R/I\times R/J
+\overline{a+bi}=a-bi
+^xg=xgx^{-1}
+|G|=[G:H]\cdot|H|
+a^{\varphi(n)}\equiv1\pmod n
+gNg^{-1}=N
+f'(x)=\lim_{h\to0}\frac{f(x+h)-f(x)}h
+\alpha=\limsup_{n\to\infty}\sqrt[n]{|a_n|}
+\exp(x)=\sum_{n=0}^\infty\frac{x^n}{n!}
+\forall\varepsilon>0,\exists N,\forall n>N,\forall x,|f_n(x)-f(x)|<\varepsilon
+f([a,b])=[c,d]
+f'(c)=\frac{f(b)-f(a)}{b-a}
+\lim_{x\to c}\frac{f(x)}{g(x)}=\lim_{x\to c}\frac{f'(x)}{g'(x)}
+f(x)=\sum_{k=0}^n\frac{f^{(k)}(a)}{k!}(x-a)^k+\frac{f^{(n+1)}(c)}{(n+1)!}(x-a)^{n+1}
+f(c\mathbf v)=cf(\mathbf v)
+\sum_{i=1}^nc_i\mathbf{v}_i=\mathbf{0}
+\dim V=|B|
+\dim\operatorname{im}f+\dim\ker f=\dim V
+c_{ik}=\sum_{j=1}^ma_{ij}b_{jk}
+V^*=\operatorname{Hom}(V,K)
+\mathbf u\cdot\mathbf v=\sum_{i=1}^nu_iv_i
+|\mathbf u\cdot\mathbf v|\le\|\mathbf u\|\|\mathbf v\|
+d(x,y)+d(y,z)\ge d(x,z)
+B_r(x)=\{y:d(x,y)<r\}
+S^\circ=\{x:\exists r>0,B_r(x)\subseteq S\}
+S=S^\circ,\quad T=T^-
+\exists(n_k),\exists x=\lim_{k\to\infty}s_{n_k}
+|z|=\sqrt{z\bar z}
+\forall\varepsilon>0,\exists N,\forall m,n>N,d(s_m,s_n)<\varepsilon\implies\exists s,\forall\varepsilon>0,\exists N,\forall n>N,d(s_n,s)<\varepsilon
+\sin z=\frac{e^{iz}-e^{-iz}}{2i},\quad\cos z=\frac{e^{iz}+e^{-iz}}2
+e^{i\pi}+1=0
+z=re^{i\theta}
+\mathbb C^\times\cong\mathbb C/2\pi i\mathbb Z
+\frac{\mathrm d}{\mathrm dx}\ln x=\frac1x
+\sum_{k=0}^na_kx^k=a_n\prod_{j=1}^n(x-r_j)
