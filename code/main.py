@@ -43,7 +43,9 @@ with (path / names).open('r') as f1, (path / dates).open('r') as f2, (path / equ
 fi = Files(names_lines, dates_lines, equations_lines)
 
 # Templates
-template = """# Day {N}: {Na}
+template = """# Equation of The Day
+
+# Day {N}: {Na}
 
 $${E}$$
 
