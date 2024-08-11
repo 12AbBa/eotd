@@ -1,6 +1,6 @@
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 This Python script helps to mass-produce the EoTD files.
-Written by Royce Yao and Zongshu Wu
+Written by Royce Yao (mainly) and Zongshu Wu
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
@@ -49,7 +49,9 @@ $${E}$$
 
 <picture><img alt="Day {N}" src="{pN}.png"></picture>
 
-<center>{quickref}</center>"""
+<center>{quickref}</center>
+
+[Back to Sector 1](../0-63.md)"""
 
 main_template = """
 [Day {N}: {Na}](0-63/{pN}.md)
