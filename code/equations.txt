@@ -58,3 +58,4 @@ z=re^{i\theta}
 \mathbb C^\times\cong\mathbb C/2\pi i\mathbb Z
 \frac{\mathrm d}{\mathrm dx}\ln x=\frac1x
 \sum_{k=0}^na_kx^k=a_n\prod_{j=1}^n(x-r_j)
+\langle\mathbf u,c\mathbf v\rangle=\bar c\langle\mathbf u,\mathbf v\rangle

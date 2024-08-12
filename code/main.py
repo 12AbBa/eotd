@@ -90,4 +90,4 @@ with (path / (f"output/main.md")).open('w+') as mr:
                 quickref=quickref
             ))
             
-        mr.write(main_template.format(N=str(i+1),pN=pfN,Na=fi.get_name(i),E=fi.get_equation(i)))
+        # mr.write(main_template.format(N=str(i+1),pN=pfN,Na=fi.get_name(i),E=fi.get_equation(i)))
