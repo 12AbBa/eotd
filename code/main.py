@@ -53,7 +53,9 @@ $${E}$$
 
 <center>{quickref}</center>
 
-[Back to Sector 1](../0-63.md)"""
+[Back to Sector 1](../0-63.md)
+
+<script src="https://utteranc.es/client.js" repo="12AbBa/eotd" issue-term="pathname" theme="github-light" crossorigin="anonymous" async> </script>"""
 
 main_template = """
 [Day {N}: {Na}](0-63/{pN}.md)
@@ -61,33 +63,28 @@ main_template = """
 $$ {E} $$
 """
 
-with (path / (f"output/main.md")).open('w+') as mr:
-    # Generate the output
-    output = ""
-    for i in range(len(fi)):
-        pfN = str(i+1).zfill(4)
-        quickref = ""
+for i in range(len(fi)):
+    pfN = str(i+1).zfill(4)
+    quickref = ""
 
-        # quickref text + links
-        if i > 0:
-            quickref += "<a href=\"" + str(i).zfill(4) + ".html\">#" + str(i) + "</a> $\\qquad\\leftarrow\\qquad$ "
+    # quickref text + links
+    if i > 0:
+        quickref += "<a href=\"" + str(i).zfill(4) + ".html\">#" + str(i) + "</a> $\\qquad\\leftarrow\\qquad$ "
 
-        quickref += "#" + str(i+1) + " (" + fi.get_date(i) + ")"
+    quickref += "#" + str(i+1) + " (" + fi.get_date(i) + ")"
 
-        if i < len(fi) - 1:
-            quickref += " $\\qquad\\rightarrow\\qquad$ <a href=\"" + str(i+2).zfill(4) + ".html\">#" + str(i+2) + "</a>"
+    if i < len(fi) - 1:
+        quickref += " $\\qquad\\rightarrow\\qquad$ <a href=\"" + str(i+2).zfill(4) + ".html\">#" + str(i+2) + "</a>"
 
-        if not os.path.exists('./output'):
-            os.mkdir('./output')
+    if not os.path.exists('./output'):
+        os.mkdir('./output')
 
-        with (path / (f"output/{pfN}.md")).open('w+') as wr:
-            wr.write(template.format(
-                N=str(i+1),
-                pN=str(i+1).zfill(4),
-                Na=fi.get_name(i),
-                D=fi.get_date(i),
-                E=fi.get_equation(i),
-                quickref=quickref
-            ))
-            
-        # mr.write(main_template.format(N=str(i+1),pN=pfN,Na=fi.get_name(i),E=fi.get_equation(i)))
+    with (path / (f"output/{pfN}.md")).open('w+') as wr:
+        wr.write(template.format(
+            N=str(i+1),
+            pN=str(i+1).zfill(4),
+            Na=fi.get_name(i),
+            D=fi.get_date(i),
+            E=fi.get_equation(i),
+            quickref=quickref
+        ))

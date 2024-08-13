@@ -45,7 +45,7 @@ c_{ik}=\sum_{j=1}^ma_{ij}b_{jk}
 V^*=\operatorname{Hom}(V,K)
 \mathbf u\cdot\mathbf v=\sum_{i=1}^nu_iv_i
 |\mathbf u\cdot\mathbf v|\le\|\mathbf u\|\|\mathbf v\|
-d(x,y)+d(y,z)\ge d(x,z)
+d(x,y)\le d(x,z)+d(z,y)
 B_r(x)=\{y:d(x,y)<r\}
 S^\circ=\{x:\exists r>0,B_r(x)\subseteq S\}
 S=S^\circ,\quad T=T^-
