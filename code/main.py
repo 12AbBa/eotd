@@ -78,7 +78,7 @@ for i in range(len(fi)):
     if not os.path.exists('./output'):
         os.mkdir('./output')
 
-    with (path / (f"output/{pfN}.md")).open('w+') as wr:
+    with (path / (f"output/{str(i+1).zfill(4)}.md")).open('w+') as wr:
         wr.write(template.format(
             N=str(i+1),
             pN=str(i+1).zfill(4),

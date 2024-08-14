@@ -59,3 +59,4 @@
 [Natural logarithm](https://en.wikipedia.org/wiki/Natural_logarithm), part 2
 [Fundamental theorem of algebra](https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra)
 [Inner product space](https://en.wikipedia.org/wiki/Inner_product_space)
+[Angle](https://en.wikipedia.org/wiki/Angle#Dot_product_and_generalisations)
