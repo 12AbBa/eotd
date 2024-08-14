@@ -64,7 +64,6 @@ $$ {E} $$
 """
 
 for i in range(len(fi)):
-    pfN = str(i+1).zfill(4)
     quickref = ""
 
     # quickref text + links
