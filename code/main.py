@@ -55,7 +55,9 @@ $${E}$$
 
 [Back to Sector 1](../0-63.md)
 
+<script data-goatcounter="https://zswu.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <script src="https://utteranc.es/client.js" repo="12AbBa/eotd" issue-term="pathname" theme="github-light" crossorigin="anonymous" async> </script>"""
+
 
 main_template = """
 [Day {N}: {Na}](0-63/{pN}.md)
