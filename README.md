@@ -5,7 +5,7 @@ This is the website for the EoTD (Equation of The Day), by Zongshu Wu. Every day
 ## [Sector 1: Days 1 - 63](archive/0-63.md)
 
 <center style="font-family: Menlo">
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="archive/0-63/0001.html">1</a>&nbsp;&nbsp;<a href="archive/0-63/0002.html">2</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[1](0-63/0001.md)&nbsp;&nbsp;<a href="archive/0-63/0002.html">2</a><br>
   &nbsp;<a href="archive/0-63/0008.html">8</a>
 </center>
 
