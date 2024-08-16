@@ -1,8 +1,22 @@
 # Equation of The Day
 
-This is the website for the EoTD (Equation of The Day), by Zongshu Wu. Every day, I post a mathematical expression (usually an equation), and then give a brief explanation. Together, all of the EoTD's form a coherent whole, a guide to advanced mathematics.
+This is the website for the EoTD (Equation of The Day), by Zongshu Wu. Every day, I post a mathematical expression (usually an equation), and then give a brief explanation. Together, all of the EoTDs form a coherent whole, a guide to advanced mathematics.
 
 ## [Sector 1: Days 1 - 63](archive/0-63.md)
+
+In the very first sector of the EoTD, we explore the basics of higher math: abstract algebra, linear algebra, and real analysis. Even at the basic level, there are many connections between the algebraic and the analytic, so to introduce everything effectively, I have decided to group the EoTDs into sections of 8 or 16 days, with the topic alternating between algebra and analysis.
+
+1 - 15: Ring Theory
+
+16 - 23: Real Analysis
+
+24 - 31: Rings and Groups
+
+32 - 39: Real Analysis
+
+40 - 47: Linear Algebra
+
+48 - 63: Various Topics in Analysis
 
 <center style="font-family: Menlo">
   &nbsp;<a href="archive/0-63/0000.html">&nbsp;</a>
