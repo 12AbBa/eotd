@@ -4,4 +4,8 @@ This is the website for the EoTD (Equation of The Day), by Zongshu Wu. Every day
 
 - [Sector 1: Days 1 - 63](archive/0-63.md)
 
+
+
+- [Sector 2: Days 64 - 127](archive/64-127.md)
+
 <script data-goatcounter="https://zswu.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

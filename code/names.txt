@@ -60,3 +60,4 @@
 [Fundamental theorem of algebra](https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra)
 [Inner product space](https://en.wikipedia.org/wiki/Inner_product_space)
 [Angle](https://en.wikipedia.org/wiki/Angle#Dot_product_and_generalisations)
+[Law of cosines](https://en.wikipedia.org/wiki/Law_of_cosines)

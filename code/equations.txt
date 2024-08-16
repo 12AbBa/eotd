@@ -60,3 +60,4 @@ z=re^{i\theta}
 \sum_{k=0}^na_kx^k=a_n\prod_{j=1}^n(x-r_j)
 \langle\mathbf u,c\mathbf v\rangle=\bar c\langle\mathbf u,\mathbf v\rangle
 \cos\theta=\frac{\langle\mathbf u,\mathbf v\rangle}{\|\mathbf u\|\|\mathbf v\|}
+\|\mathbf u-\mathbf v\|^2=\|\mathbf u\|^2+\|\mathbf v\|^2-2\|\mathbf u\|\|\mathbf v\|\cos\theta
