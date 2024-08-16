@@ -42,7 +42,6 @@ with (path / names).open('r') as f1, (path / dates).open('r') as f2, (path / equ
 
 fi = Files(names_lines, dates_lines, equations_lines)
 
-# Templates
 template = """# Equation of The Day
 
 # Day {N}: {Na}
@@ -58,12 +57,6 @@ $${E}$$
 <script data-goatcounter="https://zswu.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <script src="https://utteranc.es/client.js" repo="12AbBa/eotd" issue-term="pathname" theme="github-light" crossorigin="anonymous" async> </script>"""
 
-
-main_template = """
-[Day {N}: {Na}](0-63/{pN}.md)
-
-$$ {E} $$
-"""
 
 for i in range(len(fi)):
     quickref = ""
