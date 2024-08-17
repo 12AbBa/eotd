@@ -61,3 +61,4 @@ z=re^{i\theta}
 \langle\mathbf u,c\mathbf v\rangle=\bar c\langle\mathbf u,\mathbf v\rangle
 \cos\theta=\frac{\langle\mathbf u,\mathbf v\rangle}{\|\mathbf u\|\|\mathbf v\|}
 \|\mathbf u-\mathbf v\|^2=\|\mathbf u\|^2+\|\mathbf v\|^2-2\|\mathbf u\|\|\mathbf v\|\cos\theta
+\forall S\subseteq X,S\ne\varnothing\implies\exists m\in S,\forall s\in S,s\nless m

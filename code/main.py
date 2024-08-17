@@ -52,13 +52,13 @@ $${E}$$
 
 <center>{quickref}</center>
 
-[Back to Sector 1](../0-63.md)
+[Back to Sector 2](../64-127.md)
 
 <script data-goatcounter="https://zswu.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <script src="https://utteranc.es/client.js" repo="12AbBa/eotd" issue-term="pathname" theme="github-light" crossorigin="anonymous" async> </script>"""
 
 
-for i in range(len(fi)):
+for i in range(63,len(fi)):
     quickref = ""
 
     # quickref text + links
@@ -69,9 +69,6 @@ for i in range(len(fi)):
 
     if i < len(fi) - 1:
         quickref += " $\\qquad\\rightarrow\\qquad$ <a href=\"" + str(i+2).zfill(4) + ".html\">#" + str(i+2) + "</a>"
-
-    if not os.path.exists('./output'):
-        os.mkdir('./output')
 
     with (path / (f"output/{str(i+1).zfill(4)}.md")).open('w+') as wr:
         wr.write(template.format(
