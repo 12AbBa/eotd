@@ -2,6 +2,8 @@
 
 This is the website for the EoTD (Equation of The Day), by Zongshu Wu. Every day, I post a mathematical expression (usually an equation), and then give a brief explanation. Together, all of the EoTDs form a coherent whole, a guide to advanced mathematics.
 
+Let $0\in\mathbb N$.
+
 ## [Sector 1: Days 1 - 63](archive/0-63.md)
 
 In the very first sector of the EoTD, we explore the basics of higher math: abstract algebra, linear algebra, and real analysis. Even at the basic level, there are many connections between the algebraic and the analytic, so to introduce everything effectively, I have decided to group the EoTDs into sections of 8 or 16 days, with the topic alternating between algebra and analysis.
