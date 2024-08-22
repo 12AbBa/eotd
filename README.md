@@ -89,4 +89,8 @@ In the very first sector of the EoTD, we explore the basics of higher math: abst
 
 ## [Sector 2: Days 64 - 127](archive/64-127.md)
 
+In progress!
+
+64 - 71: Set Theory
+
 <script data-goatcounter="https://zswu.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

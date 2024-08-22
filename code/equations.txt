@@ -63,3 +63,4 @@ z=re^{i\theta}
 \|\mathbf u-\mathbf v\|^2=\|\mathbf u\|^2+\|\mathbf v\|^2-2\|\mathbf u\|\|\mathbf v\|\cos\theta
 \forall S\subseteq X,S\ne\varnothing\implies\exists m\in S,\forall s\in S,s\nless m
 \operatorname{WO}(\alpha,\in)\wedge\forall\beta\in\alpha,\beta\subseteq\alpha
+F(\alpha)=G(F\upharpoonright\alpha)

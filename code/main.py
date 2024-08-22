@@ -58,7 +58,7 @@ $${E}$$
 <script src="https://utteranc.es/client.js" repo="12AbBa/eotd" issue-term="pathname" theme="github-light" crossorigin="anonymous" async> </script>"""
 
 
-for i in range(63,len(fi)):
+for i in range(64,len(fi)):
     quickref = ""
 
     # quickref text + links

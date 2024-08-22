@@ -63,3 +63,4 @@
 [Law of cosines](https://en.wikipedia.org/wiki/Law_of_cosines)
 [Well-order](https://en.wikipedia.org/wiki/Well-order)
 [Ordinal](https://en.wikipedia.org/wiki/Ordinal_number)
+[Transfinite recursion](https://en.wikipedia.org/wiki/Transfinite_induction)
