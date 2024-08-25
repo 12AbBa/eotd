@@ -65,3 +65,4 @@ z=re^{i\theta}
 \operatorname{WO}(\alpha,\in)\wedge\forall\beta\in\alpha,\beta\subseteq\alpha
 F(\alpha)=G(F\upharpoonright\alpha)
 \alpha+\beta=\bigcup_{\gamma<\beta}S(\alpha+\gamma)
+(X,<)\cong(\alpha,\in)
