@@ -66,3 +66,4 @@ z=re^{i\theta}
 F(\alpha)=G(F\upharpoonright\alpha)
 \alpha+\beta=\bigcup_{\gamma<\beta}S(\alpha+\gamma)
 (X,<)\cong(\alpha,\in)
+|X|<|\mathcal P(X)|

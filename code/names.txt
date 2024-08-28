@@ -66,3 +66,4 @@
 [Transfinite recursion](https://en.wikipedia.org/wiki/Transfinite_induction)
 [Ordinal arithmetic](https://en.wikipedia.org/wiki/Ordinal_arithmetic)
 [Order type](https://en.wikipedia.org/wiki/Order_type)
+[Cantor's theorem](https://en.wikipedia.org/wiki/Cantor's_theorem)
