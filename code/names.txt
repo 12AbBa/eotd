@@ -67,3 +67,4 @@
 [Ordinal arithmetic](https://en.wikipedia.org/wiki/Ordinal_arithmetic)
 [Order type](https://en.wikipedia.org/wiki/Order_type)
 [Cantor's theorem](https://en.wikipedia.org/wiki/Cantor's_theorem)
+[Cardinal](https://en.wikipedia.org/wiki/Cardinal_number)
