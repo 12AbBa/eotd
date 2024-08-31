@@ -68,3 +68,4 @@ F(\alpha)=G(F\upharpoonright\alpha)
 (X,<)\cong(\alpha,\in)
 |X|<|\mathcal P(X)|
 |X|=\min\{\alpha:|X|=|\alpha|\}
+\kappa+\lambda=\kappa\cdot\lambda=\max\{\kappa,\lambda\}
