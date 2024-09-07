@@ -69,3 +69,5 @@ F(\alpha)=G(F\upharpoonright\alpha)
 |X|<|\mathcal P(X)|
 |X|=\min\{\alpha:|X|=|\alpha|\}
 \kappa+\lambda=\kappa\cdot\lambda=\max\{\kappa,\lambda\}
+\mathbb Q(\alpha)=\mathbb Q[\alpha]
+[L:F]=[L:K][K:F]

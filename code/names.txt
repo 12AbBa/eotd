@@ -69,3 +69,5 @@
 [Cantor's theorem](https://en.wikipedia.org/wiki/Cantor's_theorem)
 [Cardinal](https://en.wikipedia.org/wiki/Cardinal_number)
 [Cardinal arithmetic](https://en.wikipedia.org/wiki/Cardinal_number#Cardinal_arithmetic)
+[Minimal polynomial](https://en.wikipedia.org/wiki/Minimal_polynomial_(field_theory))
+[Field extension](https://en.wikipedia.org/wiki/Field_extension)
