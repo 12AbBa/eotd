@@ -4,7 +4,7 @@
 
 $$\forall f\in\overline{\mathbb Q}[x],f(\alpha)=0\implies\alpha\in\overline{\mathbb Q}$$
 
-<picture><img alt="Day 74" src="0074.png"></picture>
+<picture><img alt="Day 74" src="archive/64-127/0074.png"></picture>
 
 # About
 
