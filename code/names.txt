@@ -71,3 +71,4 @@
 [Cardinal arithmetic](https://en.wikipedia.org/wiki/Cardinal_number#Cardinal_arithmetic)
 [Minimal polynomial](https://en.wikipedia.org/wiki/Minimal_polynomial_(field_theory))
 [Field extension](https://en.wikipedia.org/wiki/Field_extension)
+[Field of algebraic numbers](https://en.wikipedia.org/wiki/Algebraic_number#Field)

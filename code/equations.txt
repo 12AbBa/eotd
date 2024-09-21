@@ -71,3 +71,4 @@ F(\alpha)=G(F\upharpoonright\alpha)
 \kappa+\lambda=\kappa\cdot\lambda=\max\{\kappa,\lambda\}
 \mathbb Q(\alpha)=\mathbb Q[\alpha]
 [L:F]=[L:K][K:F]
+\forall f\in\overline{\mathbb Q}[x],f(\alpha)=0\implies\alpha\in\overline{\mathbb Q}

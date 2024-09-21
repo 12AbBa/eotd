@@ -1,5 +1,13 @@
 # Equation of The Day
 
+# Day 74: [Field of algebraic numbers](https://en.wikipedia.org/wiki/Algebraic_number#Field)
+
+$$\forall f\in\overline{\mathbb Q}[x],f(\alpha)=0\implies\alpha\in\overline{\mathbb Q}$$
+
+<picture><img alt="Day 74" src="0074.png"></picture>
+
+# About
+
 This is the website for the EoTD (Equation of The Day), by Zongshu Wu. Every day, I post a mathematical expression (usually an equation), and then give a brief explanation. Together, all of the EoTDs form a coherent whole, a guide to advanced mathematics.
 
 Let $0\in\mathbb N$.
@@ -92,5 +100,7 @@ In the very first sector of the EoTD, we explore the basics of higher math: abst
 In progress!
 
 64 - 71: Set Theory
+
+72 - 79: Field Theory
 
 <script data-goatcounter="https://zswu.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
