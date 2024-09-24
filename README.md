@@ -99,6 +99,17 @@ In the very first sector of the EoTD, we explore the basics of higher math: abst
 
 In progress!
 
+<center style="font-family: Menlo">
+  <a href="archive/0-63/0064.html">64</a>
+  &nbsp;<a href="archive/0-63/0065.html">65</a>
+  &nbsp;<a href="archive/0-63/0066.html">66</a>
+  &nbsp;<a href="archive/0-63/0067.html">67</a>
+  &nbsp;<a href="archive/0-63/0068.html">68</a>
+  &nbsp;<a href="archive/0-63/0069.html">69</a>
+  &nbsp;<a href="archive/0-63/0070.html">70</a>
+  &nbsp;<a href="archive/0-63/0071.html">71</a>
+</center>
+
 64 - 71: Set Theory
 
 72 - 79: Field Theory
