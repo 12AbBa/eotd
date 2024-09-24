@@ -1,10 +1,10 @@
 # Equation of The Day
 
-# Day 74: [Field of algebraic numbers](https://en.wikipedia.org/wiki/Algebraic_number#Field)
+# Day 75: [Primitive element theorem](https://en.wikipedia.org/wiki/Primitive_element_theorem)
 
-$$\forall f\in\overline{\mathbb Q}[x],f(\alpha)=0\implies\alpha\in\overline{\mathbb Q}$$
+$$\mathbb Q(\alpha,\beta)=\mathbb Q(\alpha+c\beta)$$
 
-<picture><img alt="Day 74" src="archive/64-127/0074.png"></picture>
+<picture><img alt="Day 75" src="archive/64-127/0075.png"></picture>
 
 # About
 
