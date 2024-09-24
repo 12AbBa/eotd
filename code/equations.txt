@@ -72,3 +72,4 @@ F(\alpha)=G(F\upharpoonright\alpha)
 \mathbb Q(\alpha)=\mathbb Q[\alpha]
 [L:F]=[L:K][K:F]
 \forall f\in\overline{\mathbb Q}[x],f(\alpha)=0\implies\alpha\in\overline{\mathbb Q}
+\mathbb Q(\alpha,\beta)=\mathbb Q(\alpha+c\beta)
