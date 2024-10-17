@@ -10,7 +10,7 @@ $$[K:\mathbb Q]=r_1+2r_2$$
 
 This is the website for the EoTD (Equation of The Day), by Zongshu Wu. Every day, I post a mathematical expression (usually an equation), and then give a brief explanation. Together, all of the EoTDs form a coherent whole, a guide to advanced mathematics.
 
-The length of this series may seem to clash with the subtitle of "A brief guide to higher math" -- but this is only because there is an immense amount of math out there! Relative to other sources, this series is meant to be short, yet provide 
+The length of this series may seem to clash with the subtitle of "A brief guide to higher math" -- but this is only because there is an immense amount of math out there! Relative to other sources, this series is meant to be short, yet still provide key mathematical intuitions.
 
 Let $0\in\mathbb N$.
 
