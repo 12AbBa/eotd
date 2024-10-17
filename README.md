@@ -1,10 +1,10 @@
 # Equation of The Day
 
-# Day 75: [Primitive element theorem](https://en.wikipedia.org/wiki/Primitive_element_theorem)
+# Day 76: [Real and complex embeddings](https://planetmath.org/realandcomplexembeddings)
 
-$$\mathbb Q(\alpha,\beta)=\mathbb Q(\alpha+c\beta)$$
+$$[K:\mathbb Q]=r_1+2r_2$$
 
-<picture><img alt="Day 75" src="archive/64-127/0075.png"></picture>
+<picture><img alt="Day 76" src="archive/64-127/0076.png"></picture>
 
 # About
 
