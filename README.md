@@ -6,6 +6,8 @@ $$\left|\operatorname{Gal}(L/K)\right|=[L:K]$$
 
 <picture><img alt="Day 77" src="archive/64-127/0077.png"></picture>
 
+<center><a href="archive/64-127/0076.html">#76</a> $\qquad\leftarrow\qquad$ #77 (Octover 20, 2024)</center>
+
 # About
 
 This is the website for the EoTD (Equation of The Day), by Zongshu Wu. Every day, I post a mathematical expression (usually an equation), and then give a brief explanation. Together, all of the EoTDs form a coherent whole, a guide to advanced mathematics.
