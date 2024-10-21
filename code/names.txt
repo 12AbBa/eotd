@@ -74,3 +74,4 @@
 [Field of algebraic numbers](https://en.wikipedia.org/wiki/Algebraic_number#Field)
 [Primitive element theorem](https://en.wikipedia.org/wiki/Primitive_element_theorem)
 [Real and complex embeddings](https://planetmath.org/realandcomplexembeddings)
+[Galois extension](https://en.wikipedia.org/wiki/Galois_extension)

@@ -1,10 +1,10 @@
 # Equation of The Day
 
-# Day 76: [Real and complex embeddings](https://planetmath.org/realandcomplexembeddings)
+# Day 77: [Galois extension](https://en.wikipedia.org/wiki/Galois_extension)
 
-$$[K:\mathbb Q]=r_1+2r_2$$
+$$\left|\operatorname{Gal}(L/K)\right|=[L:K]$$
 
-<picture><img alt="Day 76" src="archive/64-127/0076.png"></picture>
+<picture><img alt="Day 77" src="archive/64-127/0077.png"></picture>
 
 # About
 
