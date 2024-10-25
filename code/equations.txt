@@ -75,3 +75,4 @@ F(\alpha)=G(F\upharpoonright\alpha)
 \mathbb Q(\alpha,\beta)=\mathbb Q(\alpha+c\beta)
 [K:\mathbb Q]=r_1+2r_2
 \left|\operatorname{Gal}(L/K)\right|=[L:K]
+\operatorname{Gal}(L/L^H)=H

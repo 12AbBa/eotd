@@ -75,3 +75,4 @@
 [Primitive element theorem](https://en.wikipedia.org/wiki/Primitive_element_theorem)
 [Real and complex embeddings](https://planetmath.org/realandcomplexembeddings)
 [Galois extension](https://en.wikipedia.org/wiki/Galois_extension)
+[Fundamental theorem of Galois theory](https://en.wikipedia.org/wiki/Fundamental_theorem_of_Galois_theory)

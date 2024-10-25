@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 77: [Galois extension](https://en.wikipedia.org/wiki/Galois_extension)
+# Day 78: [Fundamental theorem of Galois theory](https://en.wikipedia.org/wiki/Fundamental_theorem_of_Galois_theory)
 
-$$\left|\operatorname{Gal}(L/K)\right|=[L:K]$$
+$$\operatorname{Gal}(L/L^H)=H$$
 
-<picture><img alt="Day 77" src="archive/64-127/0077.png"></picture>
+<picture><img alt="Day 78" src="archive/64-127/0078.png"></picture>
 
-<center><a href="archive/64-127/0076.html">#76</a> $\qquad\leftarrow\qquad$ #77 (Octover 20, 2024)</center>
+<center><a href="archive/64-127/0077.html">#77</a> $\qquad\leftarrow\qquad$ #78 (Octover 24, 2024)</center>
 
 # About
 
@@ -116,6 +116,8 @@ In progress!
 
 64 - 71: Set Theory
 
-72 - 79: Field Theory
+72 - 79: Field Theory and Galois Theory
+
+80 - 87: Point-Set Topology
 
 <script data-goatcounter="https://zswu.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
