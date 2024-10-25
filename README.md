@@ -6,7 +6,7 @@ $$\operatorname{Gal}(L/L^H)=H$$
 
 <picture><img alt="Day 78" src="archive/64-127/0078.png"></picture>
 
-<center><a href="archive/64-127/0077.html">#77</a> $\qquad\leftarrow\qquad$ #78 (Octover 24, 2024)</center>
+<center><a href="archive/64-127/0077.html">#77</a> $\qquad\leftarrow\qquad$ #78 (October 24, 2024)</center>
 
 # About
 
