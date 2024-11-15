@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 78: [Fundamental theorem of Galois theory](https://en.wikipedia.org/wiki/Fundamental_theorem_of_Galois_theory)
+# Day 79: [Constructible number](https://en.wikipedia.org/wiki/Constructible_number)
 
-$$\operatorname{Gal}(L/L^H)=H$$
+$$[\mathbb Q(\gamma):\mathbb Q]=2^k$$
 
-<picture><img alt="Day 78" src="archive/64-127/0078.png"></picture>
+<picture><img alt="Day 79" src="archive/64-127/0079.png"></picture>
 
-<center><a href="archive/64-127/0077.html">#77</a> $\qquad\leftarrow\qquad$ #78 (October 24, 2024)</center>
+<center><a href="archive/64-127/0078.html">#78</a> $\qquad\leftarrow\qquad$ #79 (November 13, 2024)</center>
 
 # About
 
@@ -104,14 +104,22 @@ In the very first sector of the EoTD, we explore the basics of higher math: abst
 In progress!
 
 <center style="font-family: Menlo">
-  <a href="archive/0-63/0064.html">64</a>
-  &nbsp;<a href="archive/0-63/0065.html">65</a>
-  &nbsp;<a href="archive/0-63/0066.html">66</a>
-  &nbsp;<a href="archive/0-63/0067.html">67</a>
-  &nbsp;<a href="archive/0-63/0068.html">68</a>
-  &nbsp;<a href="archive/0-63/0069.html">69</a>
-  &nbsp;<a href="archive/0-63/0070.html">70</a>
-  &nbsp;<a href="archive/0-63/0071.html">71</a>
+  <a href="archive/64-127/0064.html">64</a>
+  &nbsp;<a href="archive/64-127/0065.html">65</a>
+  &nbsp;<a href="archive/64-127/0066.html">66</a>
+  &nbsp;<a href="archive/64-127/0067.html">67</a>
+  &nbsp;<a href="archive/64-127/0068.html">68</a>
+  &nbsp;<a href="archive/64-127/0069.html">69</a>
+  &nbsp;<a href="archive/64-127/0070.html">70</a>
+  &nbsp;<a href="archive/64-127/0071.html">71</a><br>
+  <a href="archive/64-127/0072.html">72</a>
+  &nbsp;<a href="archive/64-127/0073.html">73</a>
+  &nbsp;<a href="archive/64-127/0074.html">74</a>
+  &nbsp;<a href="archive/64-127/0075.html">75</a>
+  &nbsp;<a href="archive/64-127/0076.html">76</a>
+  &nbsp;<a href="archive/64-127/0077.html">77</a>
+  &nbsp;<a href="archive/64-127/0078.html">78</a>
+  &nbsp;<a href="archive/64-127/0079.html">79</a>
 </center>
 
 64 - 71: Set Theory

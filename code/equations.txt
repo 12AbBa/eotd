@@ -76,3 +76,4 @@ F(\alpha)=G(F\upharpoonright\alpha)
 [K:\mathbb Q]=r_1+2r_2
 \left|\operatorname{Gal}(L/K)\right|=[L:K]
 \operatorname{Gal}(L/L^H)=H
+[\mathbb Q(\gamma):\mathbb Q]=2^k
