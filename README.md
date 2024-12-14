@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 79: [Constructible number](https://en.wikipedia.org/wiki/Constructible_number)
+# Day 80: [Continuous function](https://en.wikipedia.org/wiki/Continuous_function)
 
-$$[\mathbb Q(\gamma):\mathbb Q]=2^k$$
+$$V\text{ open}\implies f^{-1}(V)\text{ open}$$
 
-<picture><img alt="Day 79" src="archive/64-127/0079.png"></picture>
+<picture><img alt="Day 80" src="archive/64-127/0080.png"></picture>
 
-<center><a href="archive/64-127/0078.html">#78</a> $\qquad\leftarrow\qquad$ #79 (November 13, 2024)</center>
+<center><a href="archive/64-127/0079.html">#79</a> $\qquad\leftarrow\qquad$ #80 (December 14, 2024)</center>
 
 # About
 
@@ -119,7 +119,15 @@ In progress!
   &nbsp;<a href="archive/64-127/0076.html">76</a>
   &nbsp;<a href="archive/64-127/0077.html">77</a>
   &nbsp;<a href="archive/64-127/0078.html">78</a>
-  &nbsp;<a href="archive/64-127/0079.html">79</a>
+  &nbsp;<a href="archive/64-127/0079.html">79</a><br>
+  <a href="archive/64-127/0080.html">80</a>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 </center>
 
 64 - 71: Set Theory

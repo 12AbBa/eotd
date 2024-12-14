@@ -77,3 +77,4 @@ F(\alpha)=G(F\upharpoonright\alpha)
 \left|\operatorname{Gal}(L/K)\right|=[L:K]
 \operatorname{Gal}(L/L^H)=H
 [\mathbb Q(\gamma):\mathbb Q]=2^k
+V\text{ open}\implies f^{-1}(V)\text{ open}
