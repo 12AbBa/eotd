@@ -78,3 +78,4 @@ F(\alpha)=G(F\upharpoonright\alpha)
 \operatorname{Gal}(L/L^H)=H
 [\mathbb Q(\gamma):\mathbb Q]=2^k
 V\text{ open}\implies f^{-1}(V)\text{ open}
+\bigcup_\alpha U_\alpha,\ \bigcap_{i=1}^nU_i\in\mathcal T

@@ -78,3 +78,4 @@
 [Fundamental theorem of Galois theory](https://en.wikipedia.org/wiki/Fundamental_theorem_of_Galois_theory)
 [Constructible number](https://en.wikipedia.org/wiki/Constructible_number)
 [Continuous function](https://en.wikipedia.org/wiki/Continuous_function)
+[Topological space](https://en.wikipedia.org/wiki/Topological_space)

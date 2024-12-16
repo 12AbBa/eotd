@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 80: [Continuous function](https://en.wikipedia.org/wiki/Continuous_function)
+# Day 81: [Topological space](https://en.wikipedia.org/wiki/Topological_space)
 
-$$V\text{ open}\implies f^{-1}(V)\text{ open}$$
+$$\bigcup_\alpha U_\alpha,\ \bigcap_{i=1}^nU_i\in\mathcal T$$
 
-<picture><img alt="Day 80" src="archive/64-127/0080.png"></picture>
+<picture><img alt="Day 81" src="archive/64-127/0081.png"></picture>
 
-<center><a href="archive/64-127/0079.html">#79</a> $\qquad\leftarrow\qquad$ #80 (December 14, 2024)</center>
+<center><a href="archive/64-127/0080.html">#80</a> $\qquad\leftarrow\qquad$ #81 (December 15, 2024)</center>
 
 # About
 
@@ -121,7 +121,7 @@ In progress!
   &nbsp;<a href="archive/64-127/0078.html">78</a>
   &nbsp;<a href="archive/64-127/0079.html">79</a><br>
   <a href="archive/64-127/0080.html">80</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;<a href="archive/64-127/0081.html">81</a>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
