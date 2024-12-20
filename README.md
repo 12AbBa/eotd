@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 81: [Topological space](https://en.wikipedia.org/wiki/Topological_space)
+# Day 82: [Interior](https://en.wikipedia.org/wiki/Interior_(topology)), part 2
 
-$$\bigcup_\alpha U_\alpha,\ \bigcap_{i=1}^nU_i\in\mathcal T$$
+$$S^\circ=\{x:\exists U\in\mathcal T, x\in U\subseteq S\}=\bigcup_{S\supseteq U\in\mathcal T}U$$
 
-<picture><img alt="Day 81" src="archive/64-127/0081.png"></picture>
+<picture><img alt="Day 82" src="archive/64-127/0082.png"></picture>
 
-<center><a href="archive/64-127/0080.html">#80</a> $\qquad\leftarrow\qquad$ #81 (December 15, 2024)</center>
+<center><a href="archive/64-127/0081.html">#81</a> $\qquad\leftarrow\qquad$ #82 (December 19, 2024)</center>
 
 # About
 
@@ -122,7 +122,7 @@ In progress!
   &nbsp;<a href="archive/64-127/0079.html">79</a><br>
   <a href="archive/64-127/0080.html">80</a>
   &nbsp;<a href="archive/64-127/0081.html">81</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;<a href="archive/64-127/0082.html">82</a>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;

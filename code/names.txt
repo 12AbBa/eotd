@@ -79,3 +79,4 @@
 [Constructible number](https://en.wikipedia.org/wiki/Constructible_number)
 [Continuous function](https://en.wikipedia.org/wiki/Continuous_function)
 [Topological space](https://en.wikipedia.org/wiki/Topological_space)
+[Interior](https://en.wikipedia.org/wiki/Interior_(topology)), part 2
