@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 82: [Interior](https://en.wikipedia.org/wiki/Interior_(topology)), part 2
+# Day 84: [Path-connected space](https://en.wikipedia.org/wiki/Connected_space#Path_connectedness)
 
-$$S^\circ=\{x:\exists U\in\mathcal T, x\in U\subseteq S\}=\bigcup_{S\supseteq U\in\mathcal T}U$$
+$$\forall x,y\in X,\exists f\in\mathcal C([0,1],X),f(0)=x\wedge f(1)=y$$
 
-<picture><img alt="Day 82" src="archive/64-127/0082.png"></picture>
+<picture><img alt="Day 84" src="archive/64-127/0084.png"></picture>
 
-<center><a href="archive/64-127/0081.html">#81</a> $\qquad\leftarrow\qquad$ #82 (December 19, 2024)</center>
+<center><a href="archive/64-127/0083.html">#83</a> $\qquad\leftarrow\qquad$ #84 (January 4, 2025)</center>
 
 # About
 
@@ -123,8 +123,8 @@ In progress!
   <a href="archive/64-127/0080.html">80</a>
   &nbsp;<a href="archive/64-127/0081.html">81</a>
   &nbsp;<a href="archive/64-127/0082.html">82</a>
-  &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;<a href="archive/64-127/0083.html">83</a>
+  &nbsp;<a href="archive/64-127/0084.html">84</a>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;

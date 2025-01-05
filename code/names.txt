@@ -80,3 +80,5 @@
 [Continuous function](https://en.wikipedia.org/wiki/Continuous_function)
 [Topological space](https://en.wikipedia.org/wiki/Topological_space)
 [Interior](https://en.wikipedia.org/wiki/Interior_(topology)), part 2
+[Connected space](https://en.wikipedia.org/wiki/Connected_space)
+[Path-connected space](https://en.wikipedia.org/wiki/Connected_space#Path_connectedness)
