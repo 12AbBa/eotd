@@ -82,3 +82,4 @@
 [Interior](https://en.wikipedia.org/wiki/Interior_(topology)), part 2
 [Connected space](https://en.wikipedia.org/wiki/Connected_space)
 [Path-connected space](https://en.wikipedia.org/wiki/Connected_space#Path_connectedness)
+[Complete metric space](https://en.wikipedia.org/wiki/Complete_metric_space), part 2

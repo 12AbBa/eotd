@@ -82,3 +82,4 @@ V\text{ open}\implies f^{-1}(V)\text{ open}
 S^\circ=\{x:\exists U\in\mathcal T, x\in U\subseteq S\}=\bigcup_{S\supseteq U\in\mathcal T}U
 U,\ X\setminus U\in\mathcal T\implies U=\varnothing\text{ or }X
 \forall x,y\in X,\exists f\in\mathcal C([0,1],X),f(0)=x\wedge f(1)=y
+M\text{ complete}\implies\forall S\subseteq M(S\text{ complete}\iff S\text{ closed})

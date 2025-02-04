@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 84: [Path-connected space](https://en.wikipedia.org/wiki/Connected_space#Path_connectedness)
+# Day 85: [Complete metric space](https://en.wikipedia.org/wiki/Complete_metric_space), part 2
 
-$$\forall x,y\in X,\exists f\in\mathcal C([0,1],X),f(0)=x\wedge f(1)=y$$
+$$M\text{ complete}\implies\forall S\subseteq M(S\text{ complete}\iff S\text{ closed})$$
 
-<picture><img alt="Day 84" src="archive/64-127/0084.png"></picture>
+<picture><img alt="Day 85" src="archive/64-127/0085.png"></picture>
 
-<center><a href="archive/64-127/0083.html">#83</a> $\qquad\leftarrow\qquad$ #84 (January 4, 2025)</center>
+<center><a href="archive/64-127/0084.html">#84</a> $\qquad\leftarrow\qquad$ #85 (February 3, 2025)</center>
 
 # About
 
@@ -125,7 +125,7 @@ In progress!
   &nbsp;<a href="archive/64-127/0082.html">82</a>
   &nbsp;<a href="archive/64-127/0083.html">83</a>
   &nbsp;<a href="archive/64-127/0084.html">84</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;<a href="archive/64-127/0085.html">85</a>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
 </center>
