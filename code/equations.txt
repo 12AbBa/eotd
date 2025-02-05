@@ -83,3 +83,4 @@ S^\circ=\{x:\exists U\in\mathcal T, x\in U\subseteq S\}=\bigcup_{S\supseteq U\in
 U,\ X\setminus U\in\mathcal T\implies U=\varnothing\text{ or }X
 \forall x,y\in X,\exists f\in\mathcal C([0,1],X),f(0)=x\wedge f(1)=y
 M\text{ complete}\implies\forall S\subseteq M(S\text{ complete}\iff S\text{ closed})
+\forall\{U_i\}\subseteq\mathcal T,\ \bigcup_iU_i=X\implies\exists i_1,\dots,i_n,\ \bigcup_{j=1}^nU_{i_j}=X

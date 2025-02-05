@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 85: [Complete metric space](https://en.wikipedia.org/wiki/Complete_metric_space), part 2
+# Day 86: [Compact space](https://en.wikipedia.org/wiki/Compact_space), part 2
 
-$$M\text{ complete}\implies\forall S\subseteq M(S\text{ complete}\iff S\text{ closed})$$
+$$\forall\{U_i\}\subseteq\mathcal T,\ \bigcup_iU_i=X\implies\exists i_1,\dots,i_n,\ \bigcup_{j=1}^nU_{i_j}=X$$
 
-<picture><img alt="Day 85" src="archive/64-127/0085.png"></picture>
+<picture><img alt="Day 86" src="archive/64-127/0086.png"></picture>
 
-<center><a href="archive/64-127/0084.html">#84</a> $\qquad\leftarrow\qquad$ #85 (February 3, 2025)</center>
+<center><a href="archive/64-127/0085.html">#85</a> $\qquad\leftarrow\qquad$ #86 (February 4, 2025)</center>
 
 # About
 
@@ -126,7 +126,7 @@ In progress!
   &nbsp;<a href="archive/64-127/0083.html">83</a>
   &nbsp;<a href="archive/64-127/0084.html">84</a>
   &nbsp;<a href="archive/64-127/0085.html">85</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;<a href="archive/64-127/0086.html">86</a>
   &nbsp;&nbsp;&nbsp;
 </center>
 
