@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 86: [Compact space](https://en.wikipedia.org/wiki/Compact_space), part 2
+# Day 88: [Direct sum](https://en.wikipedia.org/wiki/Direct_sum)
 
-$$\forall\{U_i\}\subseteq\mathcal T,\ \bigcup_iU_i=X\implies\exists i_1,\dots,i_n,\ \bigcup_{j=1}^nU_{i_j}=X$$
+$$\mathbf A\oplus\mathbf B=\begin{bmatrix}\mathbf A&\mathbf0\\\mathbf0&\mathbf B\end{bmatrix}$$
 
-<picture><img alt="Day 86" src="archive/64-127/0086.png"></picture>
+<picture><img alt="Day 88" src="archive/64-127/0088.png"></picture>
 
-<center><a href="archive/64-127/0085.html">#85</a> $\qquad\leftarrow\qquad$ #86 (February 4, 2025)</center>
+<center><a href="archive/64-127/0087.html">#87</a> $\qquad\leftarrow\qquad$ #88 (February 24, 2025)</center>
 
 # About
 
@@ -85,8 +85,6 @@ Let $0\in\mathbb N$.
   &nbsp;<a href="archive/0-63/0063.html">63</a>
 </center>
 
-In the very first sector of the EoTD, we explore the basics of higher math: abstract algebra, linear algebra, and real analysis. Even at the basic level, there are many connections between the algebraic and the analytic, so to introduce everything effectively, I have decided to group the EoTDs into sections of 8 or 16 days, with the topic alternating between algebra and analysis.
-
 1 - 15: Ring Theory
 
 16 - 23: Real Analysis
@@ -127,13 +125,23 @@ In progress!
   &nbsp;<a href="archive/64-127/0084.html">84</a>
   &nbsp;<a href="archive/64-127/0085.html">85</a>
   &nbsp;<a href="archive/64-127/0086.html">86</a>
+  &nbsp;<a href="archive/64-127/0087.html">87</a><br>
+  <a href="archive/64-127/0088.html">88</a>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
 </center>
 
 64 - 71: Set Theory
 
-72 - 79: Field Theory and Galois Theory
+72 - 79: Galois Theory
 
-80 - 87: Point-Set Topology
+80 - 87: General Topology
+
+88 - 95: Linear Algebra
 
 <script data-goatcounter="https://zswu.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

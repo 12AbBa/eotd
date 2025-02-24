@@ -84,3 +84,5 @@
 [Path-connected space](https://en.wikipedia.org/wiki/Connected_space#Path_connectedness)
 [Complete metric space](https://en.wikipedia.org/wiki/Complete_metric_space), part 2
 [Compact space](https://en.wikipedia.org/wiki/Compact_space), part 2
+[Product topology](https://en.wikipedia.org/wiki/Product_topology)
+[Direct sum](https://en.wikipedia.org/wiki/Direct_sum)
