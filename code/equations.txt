@@ -86,3 +86,4 @@ M\text{ complete}\implies\forall S\subseteq M(S\text{ complete}\iff S\text{ clos
 \forall\{U_i\}\subseteq\mathcal T,\ \bigcup_iU_i=X\implies\exists i_1,\dots,i_n,\ \bigcup_{j=1}^nU_{i_j}=X
 \mathcal T_{X\times Y}=\{S:\forall x\in S,\exists U\in\mathcal T_X,\exists V\in\mathcal T_Y,x\in U\times V\subseteq S\}
 \mathbf A\oplus\mathbf B=\begin{bmatrix}\mathbf A&\mathbf0\\\mathbf0&\mathbf B\end{bmatrix}
+\mathbf M'=\mathbf Q^{-1}\mathbf M\mathbf P

@@ -1,12 +1,12 @@
 # Equation of The Day
 
-# Day 88: [Direct sum](https://en.wikipedia.org/wiki/Direct_sum)
+# Day 89: [Change of basis](https://en.wikipedia.org/wiki/Change_of_basis)
 
-$$\mathbf A\oplus\mathbf B=\begin{bmatrix}\mathbf A&\mathbf0\\\mathbf0&\mathbf B\end{bmatrix}$$
+$$\mathbf M'=\mathbf Q^{-1}\mathbf M\mathbf P$$
 
-<picture><img alt="Day 88" src="archive/64-127/0088.png"></picture>
+<picture><img alt="Day 89" src="archive/64-127/0089.png"></picture>
 
-<center><a href="archive/64-127/0087.html">#87</a> $\qquad\leftarrow\qquad$ #88 (February 24, 2025)</center>
+<center><a href="archive/64-127/0088.html">#88</a> $\qquad\leftarrow\qquad$ #89 (February 26, 2025)</center>
 
 # About
 
@@ -127,7 +127,7 @@ In progress!
   &nbsp;<a href="archive/64-127/0086.html">86</a>
   &nbsp;<a href="archive/64-127/0087.html">87</a><br>
   <a href="archive/64-127/0088.html">88</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;<a href="archive/64-127/0089.html">89</a>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
